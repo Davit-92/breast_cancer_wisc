@@ -2,6 +2,9 @@
 
 Breast Cancer Classification Model
 
-1. Ինչա իրանից ներկայացնում
-2. Ինչպես օգտվել (մի հատ օրինակ) հիմնական
-3. Ինչի միջոովա գրած
+This sample project is aimed to create a classification model for predicting breast cancer type (malignant or benign).
+Python is the only programming language, used in the project.
+
+The model is based on Breast-Cancer dataset. Detailed information of the dataset can be found in EDA part.
+
+The final model is focsed on maximizing accuracy while keeping highest malignant type correct classification results.
